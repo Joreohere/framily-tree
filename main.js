@@ -376,13 +376,36 @@ function draw() {
 
     var options = {
       layout: {
-        hierarchical: {
-          sortMethod: 'directed',
+  	hierarchical: {
+    	  enabled: true,
+    	  direction: 'UD',
+    	  sortMethod: 'directed',
+    	  levelSeparation: 180,
+    	  nodeSpacing: 250,
+    	  treeSpacing: 80
+  	},
+      },
+      physics: {
+        enabled: true,
+        hierarchicalRepulsion: {
+    	  nodeDistance: 220,
+    	  springLength: 120,
+    	  springConstant: 0.01,
+    	  damping: 0.09,
+    	  centralGravity: 0.0
         },
       },
+      nodes: {
+    	  widthConstraint: {
+    	    maximum: 160
+  	  },
+  	  font: {
+    	    multi: true
+  	  },
+      },
       edges: {
-        smooth: true,
-        arrows: { to: true },
+       smooth: true,
+       arrows: { to: true },
       },
     };
     network = new vis.Network(container, data, options);
