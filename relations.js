@@ -51,8 +51,8 @@ var brothers = [
   },
   {
     "name": "Tianchen Zhang",
-    "big": "Placeholder",
-    "pledgeclass": "Fall 2015"
+    "pledgeclass": "Fall 2015",
+    "familystarted": "Nonentities"
   },
   {
     "name": "Aaron “Can You Hear Me Now” Libonati",
@@ -101,8 +101,8 @@ var brothers = [
   },
   {
     "name": "Peter Rinehart",
-    "big": "Placeholder",
-    "pledgeclass": "Spring 2017 v1"
+    "pledgeclass": "Spring 2017 v1",
+    "familystarted": "Nonentities"
   },
   {
     "name": "Garrett Ehman",
@@ -121,8 +121,8 @@ var brothers = [
   },
   {
     "name": "Peter Ehrhart",
-    "big": "Aaron “Can You Hear Me Now” Libonati",
-    "pledgeclass": "Spring 2017 v2"
+    "pledgeclass": "Spring 2017 v2",
+    "familystarted": "Nonentities"
   },
   {
     "name": "Jorryn Goudy",
@@ -136,8 +136,8 @@ var brothers = [
   },
   {
     "name": "Reid Moncada",
-    "big": "Placeholder",
-    "pledgeclass": "Spring 2017 v2"
+    "pledgeclass": "Spring 2017 v2",
+    "familystarted": "Nonentities"
   },
   {
     "name": "Blake \"Tugboat\" Rohrbacher",
@@ -186,7 +186,7 @@ var brothers = [
   },
   {
     "name": "Allen “Fargo” Yancoskie",
-    "big": "Placeholder",
+    "big": "Mitch “Captain Ahab” Gentry",
     "pledgeclass": "Spring 2018"
   },
   {
@@ -242,7 +242,7 @@ var brothers = [
   },
   {
     "name": "Dan \"Mike\" Hunt",
-    "big": "Placeholder",
+    "big": "Eric “The Joker” Zank",
     "pledgeclass": "Fall 2018"
   },
   {
@@ -251,8 +251,8 @@ var brothers = [
     "pledgeclass": "Fall 2018"
   },
   {
-    "name": "Bailey Soplinski",
-    "big": "Placeholder",
+    "name": "Bailey \"Q-tip\" Soplinski",
+    "big": "Allen “Fargo” Yancoskie",
     "pledgeclass": "Fall 2018"
   },
   {
@@ -287,12 +287,12 @@ var brothers = [
   },
   {
     "name": "Karl \"Missionary Milcc Man\" Diekman",
-    "big": "Placeholder",
+    "big": "Bailey \"Q-tip\" Soplinski",
     "pledgeclass": "Spring 2019"
   },
   {
     "name": "Jacob \"Janus\" Haskins",
-    "big": "Placeholder",
+    "big": "AJ “I got the keys Libonati” Marino",
     "pledgeclass": "Spring 2019"
   },
   {
@@ -382,7 +382,7 @@ var brothers = [
   },
   {
     "name": "Mike \"Prometheus\" Russo",
-    "big": "Jacob \"Janus\" Haskins",
+    "big": "Scott \"Apollo\" Johnson",
     "pledgeclass": "Spring 2020"
   },
   {
@@ -416,7 +416,7 @@ var brothers = [
     "pledgeclass": "Spring 2020"
   },
   {
-    "name": "Ryan Gleason",
+    "name": "Ryan \"Petite\" Gleason",
     "big": "Dan \"Mike\" Hunt",
     "pledgeclass": "Fall 2020"
   },
@@ -506,8 +506,8 @@ var brothers = [
     "pledgeclass": "Spring 2021"
   },
   {
-    "name": "Varun Patel",
-    "big": "Placeholder",
+    "name": "Varun \"Baljeet\" Patel",
+    "big": "Karl \"Missionary Milcc Man\" Diekman",
     "pledgeclass": "Spring 2021"
   },
   {
@@ -526,7 +526,7 @@ var brothers = [
     "pledgeclass": "Spring 2021"
   },
   {
-    "name": "David Terach",
+    "name": "David \"Big Baby\" Terach",
     "big": "Dan \"Mike\" Hunt",
     "pledgeclass": "Spring 2021"
   },
