@@ -1119,7 +1119,7 @@ var brothers = [
   },
   {
     "name": "Luke \"She Couldn't Tell If It\" Waszyn",
-    "big": "Anthony Petriello",
+    "big": "Anthony \"Benny Smalls\" Petriello",
     "pledgeclass": "Spring 2024"
   },
   {
@@ -1228,7 +1228,7 @@ var brothers = [
   },
   {
     "name": "Nick \"I'm not racist until I get a shot of\" Hennessy",
-    "big": "Sean Hartman",
+    "big": "Sean \"Peace, Love, Positivity, and I\" Hartman",
     "pledgeclass": "Fall 2024"
   },
   {
@@ -1253,7 +1253,7 @@ var brothers = [
   },
   {
     "name": "Drew \"that smell is coming from my\" Sacco",
-    "big": "Paul Thompson",
+    "big": "Paul \"not as rich as Sabini\" Thompson",
     "pledgeclass": "Fall 2024"
   },
   {
@@ -1338,7 +1338,7 @@ var brothers = [
   },
   {
     "name": "Christian \"when I hit my Fortnite moves all the girls get lost in my\" Funk",
-    "big": "Nick Hennessy",
+    "big": "Nick \"I'm not racist until I get a shot of\" Hennessy",
     "pledgeclass": "Spring 2025"
   }
 ];
