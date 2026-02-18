@@ -958,7 +958,7 @@ var brothers = [
     "pledgeclass": "Fall 2023"
   },
   {
-    "name": "Paul \"not as rich as Sabini\" Thompson",
+    "name": "Paul \"Not as rich as Sabini\" Thompson",
     "big": "Jayme \"Hit the Slopes Master Queef\" Roter",
     "pledgeclass": "Fall 2023"
   },
@@ -1253,7 +1253,7 @@ var brothers = [
   },
   {
     "name": "Drew \"that smell is coming from my\" Sacco",
-    "big": "Paul \"not as rich as Sabini\" Thompson",
+    "big": "Paul \"Not as rich as Sabini\" Thompson",
     "pledgeclass": "Fall 2024"
   },
   {
