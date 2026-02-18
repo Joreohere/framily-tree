@@ -130,8 +130,8 @@ var brothers = [
     "pledgeclass": "Spring 2017 v2"
   },
   {
-    "name": "Steve Madias",
-    "big": "Placeholder",
+    "name": "Steve \"The Late Bloomer\" Madias",
+    "big": "Will “The Ghost” McVay",
     "pledgeclass": "Spring 2017 v2"
   },
   {
@@ -170,17 +170,17 @@ var brothers = [
     "pledgeclass": "Spring 2017 v2"
   },
   {
-    "name": "Cooper Deck",
-    "big": "Steve Madias",
+    "name": "Cooper \"Zon\" Deck",
+    "big": "Steve \"The Late Bloomer\" Madias",
     "pledgeclass": "Fall 2017"
   },
   {
     "name": "Anthony Spada",
-    "big": "Placeholder",
-    "pledgeclass": "Fall 2017"
+    "pledgeclass": "Fall 2017",
+    "familystarted": "Nonentities"
   },
   {
-    "name": "Mr. Benjamin M. Dannholz",
+    "name": "Ben \"Look at my tits\" Dannholz",
     "pledgeclass": "Fall 2017",
     "familystarted": "Toona"
   },
@@ -237,7 +237,7 @@ var brothers = [
   },
   {
     "name": "Anchit Goyal",
-    "big": "Placeholder",
+    "big": "Tyler Sost",
     "pledgeclass": "Fall 2018"
   },
   {
@@ -246,8 +246,8 @@ var brothers = [
     "pledgeclass": "Fall 2018"
   },
   {
-    "name": "Timothy Radwanski",
-    "big": "Placeholder",
+    "name": "Timothy \"Cowboy Killer\" Radwanski",
+    "big": "Ben \"Look at my tits\" Dannholz",
     "pledgeclass": "Fall 2018"
   },
   {
@@ -301,8 +301,8 @@ var brothers = [
     "pledgeclass": "Spring 2019"
   },
   {
-    "name": "Scott Polek",
-    "big": "Cooper Deck",
+    "name": "Scott \"Narcos\" Polek",
+    "big": "Cooper \"Zon\" Deck",
     "pledgeclass": "Spring 2019"
   },
   {
@@ -312,7 +312,7 @@ var brothers = [
   },
   {
     "name": "Nick \"Wildcard\" Salerno",
-    "big": "Placeholder",
+    "big": "Timothy \"Cowboy Killer\" Radwanski",
     "pledgeclass": "Spring 2019"
   },
   {
@@ -452,7 +452,7 @@ var brothers = [
   },
   {
     "name": "Caydon Norris",
-    "big": "Scott Polek",
+    "big": "Scott \"Narcos\" Polek",
     "pledgeclass": "Fall 2020"
   },
   {
@@ -477,7 +477,7 @@ var brothers = [
   },
   {
     "name": "Jaxon \"All Natural \" Marzec",
-    "big": "Scott Polek",
+    "big": "Scott \"Narcos\" Polek",
     "pledgeclass": "Spring 2021"
   },
   {
@@ -581,7 +581,7 @@ var brothers = [
     "pledgeclass": "Fall 2021"
   },
   {
-    "name": "Rahul Nathan",
+    "name": "Rahul \"412 Sexy\" Nathan",
     "big": "Jaxon \"All Natural \" Marzec",
     "pledgeclass": "Fall 2021"
   },
@@ -661,7 +661,7 @@ var brothers = [
     "pledgeclass": "Spring 2022"
   },
   {
-    "name": "Matt Rosanski",
+    "name": "Matt \"Heyyyyyy 6'ya\" Rosanski",
     "big": "Jaxon \"All Natural \" Marzec",
     "pledgeclass": "Spring 2022"
   },
@@ -687,7 +687,7 @@ var brothers = [
   },
   {
     "name": "Dane Anden",
-    "big": "Rahul Nathan",
+    "big": "Rahul \"412 Sexy\" Nathan",
     "pledgeclass": "Spring 2022"
   },
   {
@@ -802,11 +802,11 @@ var brothers = [
   },
   {
     "name": "Zack Levitt",
-    "big": "Placeholder"
+    "familystarted": "Toona"
   },
   {
     "name": "Mike Catucci",
-    "big": "Placeholder"
+    "familystarted": "Toona"
   },
   {
     "name": "Joe \"Diamond Hymen\" O’Neill",
@@ -884,7 +884,7 @@ var brothers = [
     "pledgeclass": "Spring 2023"
   },
   {
-    "name": "Andrew Kedash",
+    "name": "Andrew \"Alluh Akbar\" Kedash",
     "big": "Anthony \"Rav\" Ioli",
     "pledgeclass": "Spring 2023"
   },
@@ -945,12 +945,12 @@ var brothers = [
   },
   {
     "name": "Brad Love",
-    "big": "Placeholder",
+    "big": "Matt \"Raw Talent\" Buddenhagen",
     "pledgeclass": "Spring 2023"
   },
   {
     "name": "Colby Gessner",
-    "big": "Placeholder"
+    "familystarted": "Toona"
   },
   {
     "name": "Andrew \"The Pit\" Gould",
@@ -958,7 +958,7 @@ var brothers = [
     "pledgeclass": "Fall 2023"
   },
   {
-    "name": "Paul Thompson",
+    "name": "Paul \"not as rich as Sabini\" Thompson",
     "big": "Jayme \"Hit the Slopes Master Queef\" Roter",
     "pledgeclass": "Fall 2023"
   },
@@ -998,12 +998,12 @@ var brothers = [
     "pledgeclass": "Fall 2023"
   },
   {
-    "name": "Anthony Petriello",
+    "name": "Anthony \"Benny Smalls\" Petriello",
     "big": "Stephen \"Big Country\" Yanchis",
     "pledgeclass": "Fall 2023"
   },
   {
-    "name": "Sean Hartman",
+    "name": "Sean \"Peace, Love, Positivity, and I\" Hartman",
     "big": "Josh Burkhart",
     "pledgeclass": "Fall 2023"
   },
@@ -1048,7 +1048,7 @@ var brothers = [
     "pledgeclass": "Fall 2023"
   },
   {
-    "name": "Andrew Kirchner",
+    "name": "Andrew \"I love calorie queens\" Kirchner",
     "big": "Josh \"Hit the Slopes Tucker\" Carlson",
     "pledgeclass": "Fall 2023"
   },
@@ -1068,7 +1068,7 @@ var brothers = [
     "pledgeclass": "Fall 2023"
   },
   {
-    "name": "Liam Sherlock",
+    "name": "Liam \"No Shit\" Sherlock",
     "big": "Ali \"Mama looks so\" Afridi",
     "pledgeclass": "Fall 2023"
   },
@@ -1108,8 +1108,8 @@ var brothers = [
     "pledgeclass": "Spring 2024"
   },
   {
-    "name": "Eric Rydberg",
-    "big": "Andrew Kedash",
+    "name": "Eric \"Motto Motto Kindaisu\" Rydberg",
+    "big": "Andrew \"Alluh Akbar\" Kedash",
     "pledgeclass": "Spring 2024"
   },
   {
@@ -1119,7 +1119,7 @@ var brothers = [
   },
   {
     "name": "Luke \"She Couldn't Tell If It\" Waszyn",
-    "big": "Anthony Petriello",
+    "big": "Anthony \"Benny Smalls\" Petriello",
     "pledgeclass": "Spring 2024"
   },
   {
@@ -1169,7 +1169,7 @@ var brothers = [
   },
   {
     "name": "Ryan \"The Baby Driver\" Patroski",
-    "big": "Placeholder"
+    "familystarted": "Toona"
   },
   {
     "name": "Logan \"6 Dicks in my ass T\" Hadsall",
@@ -1208,7 +1208,7 @@ var brothers = [
   },
   {
     "name": "Colin Liederbach",
-    "big": "Eric Rydberg",
+    "big": "Eric \"Motto Motto Kindaisu\" Rydberg",
     "pledgeclass": "Fall 2024"
   },
   {
@@ -1227,8 +1227,8 @@ var brothers = [
     "pledgeclass": "Fall 2024"
   },
   {
-    "name": "Nick Hennessy",
-    "big": "Sean Hartman",
+    "name": "Nick \"I'm not racist until I get a shot of\" Hennessy",
+    "big": "Sean \"Peace, Love, Positivity, and I\" Hartman",
     "pledgeclass": "Fall 2024"
   },
   {
@@ -1252,8 +1252,8 @@ var brothers = [
     "pledgeclass": "Fall 2024"
   },
   {
-    "name": "Drew Sacco",
-    "big": "Paul Thompson",
+    "name": "Drew \"that smell is coming from my\" Sacco",
+    "big": "Paul \"not as rich as Sabini\" Thompson",
     "pledgeclass": "Fall 2024"
   },
   {
@@ -1338,7 +1338,7 @@ var brothers = [
   },
   {
     "name": "Christian \"when I hit my Fortnite moves all the girls get lost in my\" Funk",
-    "big": "Nick Hennessy",
+    "big": "Nick \"I'm not racist until I get a shot of\" Hennessy",
     "pledgeclass": "Spring 2025"
   }
 ];
