@@ -864,7 +864,7 @@ var brothers = [
     "pledgeclass": "Spring 2023"
   },
   {
-    "name": "Cam Crawford",
+    "name": "Cam \"Odo Dragon This J\" Crawford",
     "big": "Jacob Whiteduck",
     "pledgeclass": "Spring 2023"
   },
@@ -939,7 +939,7 @@ var brothers = [
     "pledgeclass": "Spring 2023"
   },
   {
-    "name": "Nick Killinger",
+    "name": "Nick \"Slender Munch\" Killinger",
     "big": "Anthony \"Gafro Circus\" Diomidous",
     "pledgeclass": "Spring 2023"
   },
@@ -993,7 +993,7 @@ var brothers = [
     "pledgeclass": "Fall 2023"
   },
   {
-    "name": "Sean Oburu",
+    "name": "Sean \"oh you're a freshmen I'm a freshmen too\" Oburu",
     "big": "Mike Catucci",
     "pledgeclass": "Fall 2023"
   },
@@ -1023,7 +1023,7 @@ var brothers = [
     "pledgeclass": "Fall 2023"
   },
   {
-    "name": "Emilio Zarate",
+    "name": "Emilio \"el maricon\" Zarate ",
     "big": "Trevor Ullmann",
     "pledgeclass": "Fall 2023"
   },
@@ -1099,7 +1099,7 @@ var brothers = [
   },
   {
     "name": "Jake \"Wigga Man\" Staz",
-    "big": "Nick Killinger",
+    "big": "Nick \"Slender Munch\" Killinger",
     "pledgeclass": "Spring 2024"
   },
   {
@@ -1123,8 +1123,8 @@ var brothers = [
     "pledgeclass": "Spring 2024"
   },
   {
-    "name": "Joe DeJonckheere",
-    "big": "Sean Oburu",
+    "name": "Joe \"NEIGHHHH-ga my big is black by the way\" DeJonckheere",
+    "big": "Sean \"oh you're a freshmen I'm a freshmen too\" Oburu",
     "pledgeclass": "Spring 2024"
   },
   {
@@ -1187,17 +1187,17 @@ var brothers = [
     "pledgeclass": "Fall 2024"
   },
   {
-    "name": "Alec Sukay",
-    "big": "Cam Crawford",
+    "name": "Alec \"I don't blow I\" Sukay",
+    "big": "Cam \"Odo Dragon This J\" Crawford",
     "pledgeclass": "Fall 2024"
   },
   {
     "name": "Connor \"Eats bitches Dingle\" Berry",
-    "big": "Emilio Zarate",
+    "big": "Emilio \"el maricon\" Zarate ",
     "pledgeclass": "Fall 2024"
   },
   {
-    "name": "Luke Varrichio",
+    "name": "Luke \"DChi Smacker Booty Clapper\" Varrichio",
     "big": "Jackson \"Dick so fat she got J\" Ellis",
     "pledgeclass": "Fall 2024"
   },
@@ -1232,8 +1232,8 @@ var brothers = [
     "pledgeclass": "Fall 2024"
   },
   {
-    "name": "Gavin Porter",
-    "big": "Sean Oburu",
+    "name": "Gavin \"Please put it in my\" Porter",
+    "big": "Sean \"oh you're a freshmen I'm a freshmen too\" Oburu",
     "pledgeclass": "Fall 2024"
   },
   {
@@ -1272,7 +1272,7 @@ var brothers = [
     "pledgeclass": "Spring 2025"
   },
   {
-    "name": "Noah Cover",
+    "name": "Noah Cover \"I'm secretly a faggot under\" cover ",
     "big": "Garrett Moreno",
     "pledgeclass": "Spring 2025"
   },
@@ -1282,17 +1282,17 @@ var brothers = [
     "pledgeclass": "Spring 2025"
   },
   {
-    "name": "Astawaye Seyoum",
+    "name": "Astawaye \"face fucked her till she \" Seyoum",
     "big": "Connor Benson",
     "pledgeclass": "Spring 2025"
   },
   {
-    "name": "Harrison Ertz",
+    "name": "Harrison \"If you wanna make me squirt put it so deep it\" Ertz",
     "big": "Max \"Black belt chaser\" Dameshek",
     "pledgeclass": "Spring 2025"
   },
   {
-    "name": "Andrew Steinkamp",
+    "name": "Andrew \"This is not my pledge name I have a bomb don't be a hero it's going to explode in 54321\" Steinkamp",
     "big": "Ben \"Tell your girl to\" Bischoff",
     "pledgeclass": "Spring 2025"
   },
@@ -1302,7 +1302,7 @@ var brothers = [
     "pledgeclass": "Spring 2025"
   },
   {
-    "name": "Jordan Cherry",
+    "name": "Jordan \"Dick so small I couldn't pop her\" Cherry",
     "big": "Chris \"Early bird\" Andriola",
     "pledgeclass": "Spring 2025"
   },
@@ -1317,17 +1317,17 @@ var brothers = [
     "pledgeclass": "Spring 2025"
   },
   {
-    "name": "Luke Torbic",
+    "name": "Luke Torbic \"little tip\" Torbic ",
     "big": "Kellen \"I like taking it from the\" Beck",
     "pledgeclass": "Spring 2025"
   },
   {
-    "name": "Ethan Hin",
-    "big": "Sean Oburu",
+    "name": "Ethan \"I let maddie coyle stick it\" Hin ",
+    "big": "Sean \"oh you're a freshmen I'm a freshmen too\" Oburu",
     "pledgeclass": "Spring 2025"
   },
   {
-    "name": "Gavin Siravo",
+    "name": "Gavin \"Holy fuck my dick fell out\" Siravo",
     "big": "Stephen Colon",
     "pledgeclass": "Spring 2025"
   },
